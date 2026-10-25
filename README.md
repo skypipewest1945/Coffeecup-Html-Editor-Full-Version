@@ -240,4 +240,4 @@ This repository serves as the official landing page for CoffeeCup HTML Editor. T
 **Get the most recent version of CoffeeCup HTML Editor today!**
 
 ---
-**Last updated:** 2026-10-24 23:00:56 UTC
+**Last updated:** 2026-10-25 04:00:49 UTC
